@@ -1,2 +1,2 @@
 # friendly_challenge
-For Gym Test
+For Gym Test Project
